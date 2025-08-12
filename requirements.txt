@@ -1,0 +1,4 @@
+# LLM_Playground/requirements.txt
+
+streamlit
+huggingface_hub
